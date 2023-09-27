@@ -15,8 +15,6 @@ python test_all.py
 ```
 to run an overall comparison of all implemented methods with default sample size 10000 and confidence interval 0.95.
 
-Under this setting, ***Wald Test*** gives the closest estimation as well as the tightest confidence interval.
-
 Or type
 ```bat
 python test_all.py -c [confidence interval] -n [sample size]
