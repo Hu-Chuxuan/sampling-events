@@ -1,0 +1,7563 @@
+[
+  {
+    "name": "00423717-0ef3c8dc-0000001.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 322.86664496527777,
+          "y1": 235.37777370876736,
+          "y2": 606.9333292643229
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 942.3591705140406,
+          "x2": 1008.8049811965938,
+          "y1": 328.99194721571155,
+          "y2": 374.9928930728637
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 0
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000002.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 328.1999782986111,
+          "y1": 233.5999959309896,
+          "y2": 606.9333292643229
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 942.3591705140406,
+          "x2": 1008.8049811965938,
+          "y1": 328.99194721571155,
+          "y2": 374.9928930728637
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 1
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000003.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 349.53331163194446,
+          "y1": 206.9333292643229,
+          "y2": 606.9333292643229
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 942.3591705140406,
+          "x2": 1019.8607207873372,
+          "y1": 328.99194721571155,
+          "y2": 374.9928930728637
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 2
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000004.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 376.1999782986111,
+          "y1": 206.9333292643229,
+          "y2": 614.0444403754341
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 965.9621105416685,
+          "x2": 1037.3413511372837,
+          "y1": 329.3013089193376,
+          "y2": 374.9928930728637
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 3
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000005.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 401.0888671875,
+          "y1": 206.9333292643229,
+          "y2": 596.2666625976562
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 965.9621105416685,
+          "x2": 1053.3652622914015,
+          "y1": 323.4744321360221,
+          "y2": 365.7192888150597
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 4
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000006.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 424.1999782986111,
+          "y1": 206.9333292643229,
+          "y2": 562.4888848198784
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 990.7263368707595,
+          "x2": 1072.302611837177,
+          "y1": 319.10427454853544,
+          "y2": 365.7192888150597
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 5
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000007.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 446.22222222222223,
+          "y1": 206.93332926432294,
+          "y2": 555.3777737087673
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1005.2935288290483,
+          "x2": 1094.1533997746103,
+          "y1": 317.64755535270655,
+          "y2": 365.7192888150597
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 6
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000008.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 2.8666449652777777,
+          "x2": 466.86664496527777,
+          "y1": 222.9333292643229,
+          "y2": 528.7111070421007
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1015.4905631998505,
+          "x2": 1113.0907493203858,
+          "y1": 320.5609937443643,
+          "y2": 374.45960399003303
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 7
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000009.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 18.86664496527778,
+          "x2": 484.64442274305554,
+          "y1": 240.7111070421007,
+          "y2": 528.7111070421007
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1037.5333116319443,
+          "x2": 1137.0888671875,
+          "y1": 322.4888848198785,
+          "y2": 375.8222181532118
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 8
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000010.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 72.19997829861111,
+          "x2": 498.8666449652777,
+          "y1": 249.5999959309896,
+          "y2": 519.8222181532118
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1042.8666449652778,
+          "x2": 1160.199978298611,
+          "y1": 320.7111070421007,
+          "y2": 384.7111070421007
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 9
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000011.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 111.31108940972223,
+          "x2": 507.7555338541667,
+          "y1": 253.15555148654514,
+          "y2": 503.8222181532118
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1060.6444227430557,
+          "x2": 1183.3110894097222,
+          "y1": 313.59999593098956,
+          "y2": 384.7111070421007
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 10
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000012.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 152.19997829861111,
+          "x2": 513.0888671875,
+          "y1": 256.7111070421007,
+          "y2": 493.15555148654516
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1089.7832421871237,
+          "x2": 1217.0888671875,
+          "y1": 313.59999593098956,
+          "y2": 382.93332926432294
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "crowd": false,
+          "occluded": true,
+          "truncated": false
+        },
+        "box2d": {
+          "x1": 123.95904049884089,
+          "x2": 172.17607699885784,
+          "y1": 344.4186188718082,
+          "y2": 369.2362111879933
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 11
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000013.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 198.42220052083334,
+          "x2": 523.7555338541666,
+          "y1": 254.9333292643229,
+          "y2": 484.26666259765625
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1110.177310928728,
+          "x2": 1252.6444227430557,
+          "y1": 313.59999593098956,
+          "y2": 391.8222181532118
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 97.0888671875,
+          "x2": 185.97775607638889,
+          "y1": 342.044440375434,
+          "y2": 370.4888848198785
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1076.6727694246638,
+          "x2": 1136.398256453648,
+          "y1": 335.1281857026532,
+          "y2": 381.74319996917745
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 12
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000014.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 226.86664496527777,
+          "x2": 532.6444227430555,
+          "y1": 269.15555148654516,
+          "y2": 470.044440375434
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1137.0888671875,
+          "x2": 1280,
+          "y1": 310.044440375434,
+          "y2": 400.7111070421007
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 74.44996269439112,
+          "x2": 176.42030640241305,
+          "y1": 345.32522007345534,
+          "y2": 375.9163231858619
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1099.980276557926,
+          "x2": 1168.4460787618834,
+          "y1": 330.7580281151665,
+          "y2": 381.74319996917745
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 518.7493174222009,
+          "x2": 584.3016812345007,
+          "y1": 304.5370825902466,
+          "y2": 361.3491312275731
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 13
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000015.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 248.19997829861111,
+          "x2": 532.6444227430555,
+          "y1": 267.37777370876734,
+          "y2": 462.93332926432294
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1160.199978298611,
+          "x2": 1280,
+          "y1": 306.4888848198785,
+          "y2": 398.93332926432294
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 27.834948427866806,
+          "x2": 141.4590457025198,
+          "y1": 343.86850087762645,
+          "y2": 375.9163231858619
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1118.9176261037014,
+          "x2": 1190.2968666993168,
+          "y1": 327.8445897235087,
+          "y2": 384.65663836083525
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 495.44181028893877,
+          "x2": 565.3643316887252,
+          "y1": 298.710205806931,
+          "y2": 355.52225444425756
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 14
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000016.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 268.1936157396328,
+          "x2": 534.7732285763186,
+          "y1": 267.37777370876734,
+          "y2": 462.93332926432294
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1196.1237434826323,
+          "x2": 1280,
+          "y1": 306.4888848198785,
+          "y2": 398.93332926432294
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 105.04106580679769,
+          "y1": 343.86850087762645,
+          "y2": 375.9163231858619
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1134.9415372578192,
+          "x2": 1215.0610930284076,
+          "y1": 332.2147473109954,
+          "y2": 384.65663836083525
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 476.50446074316324,
+          "x2": 549.3404205346075,
+          "y1": 292.8833290236155,
+          "y2": 356.97897364008645
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 15
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000017.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 276.14411154535134,
+          "x2": 536.4864827616091,
+          "y1": 277.26997609140784,
+          "y2": 451.86159595750354
+        }
+      },
+      {
+        "id": "00017244",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1237.0300682608618,
+          "x2": 1280,
+          "y1": 340.61737798972575,
+          "y2": 398.93332926432294
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 71.53652430273334,
+          "y1": 343.86850087762645,
+          "y2": 375.9163231858619
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1165.184844156672,
+          "x2": 1250.935595506834,
+          "y1": 335.9822022410683,
+          "y2": 396.23948697361465
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 473.9116101547341,
+          "x2": 532.6238363043946,
+          "y1": 294.26562050315164,
+          "y2": 349.11520019559765
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 16
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000018.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 300.2414380478682,
+          "x2": 540.6001053596342,
+          "y1": 287.05645224029996,
+          "y2": 450.20900217313505
+        }
+      },
+      {
+        "id": "00017245",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 51.14245556112896,
+          "y1": 349.69537766094203,
+          "y2": 380.28648077334856
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1204.8640586576055,
+          "x2": 1278.9994539377606,
+          "y1": 340.9550624859687,
+          "y2": 406.5074262982685
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 473.9116101547341,
+          "x2": 531.8597901846608,
+          "y1": 298.710205806931,
+          "y2": 349.11520019559765
+        }
+      },
+      {
+        "id": "00017248",
+        "category": "car",
+        "attributes": {
+          "crowd": false,
+          "occluded": true,
+          "truncated": false
+        },
+        "box2d": {
+          "x1": 275.1016551719696,
+          "x2": 324.60195244550493,
+          "y1": 326.105083039313,
+          "y2": 387.7054529797125
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 17
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000019.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 310.4384724186704,
+          "x2": 540.6001053596342,
+          "y1": 288.51317143612886,
+          "y2": 450.20900217313505
+        }
+      },
+      {
+        "id": "00017246",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1247.1089153366431,
+          "x2": 1278.9994539377606,
+          "y1": 355.52225444425756,
+          "y2": 406.5074262982685
+        }
+      },
+      {
+        "id": "00017248",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 172.0501488149264,
+          "x2": 317.72206839781484,
+          "y1": 324.93115133185097,
+          "y2": 393.39695353580856
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 18
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000020.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 323.54894518113036,
+          "x2": 542.0568245554631,
+          "y1": 284.14301384864217,
+          "y2": 444.3821253898195
+        }
+      },
+      {
+        "id": "00017248",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 30.748386819524576,
+          "x2": 231.77563584391064,
+          "y1": 313.27739776521986,
+          "y2": 405.0507071024396
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 269.6503349354617,
+          "x2": 351.22660990187916,
+          "y1": 298.710205806931,
+          "y2": 375.9163231858619
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 19
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000021.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 335.93105834567586,
+          "x2": 546.4269821429497,
+          "y1": 285.59973304447107,
+          "y2": 440.74032740024734
+        }
+      },
+      {
+        "id": "00017248",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 103.58434661096881,
+          "y1": 300.1669250027599,
+          "y2": 409.42086468992625
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 189.530779164873,
+          "x2": 402.2117817558902,
+          "y1": 256.4653491278934,
+          "y2": 378.8297615775197
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 20
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000022.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 348.3131715102214,
+          "x2": 550.7971397304364,
+          "y1": 287.05645224029996,
+          "y2": 437.0985294106751
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 80.27683947770664,
+          "x2": 402.2117817558902,
+          "y1": 241.89815716960453,
+          "y2": 390.4835151441508
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 21
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000023.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 365.793801860168,
+          "x2": 558.0807357095808,
+          "y1": 291.4266098277866,
+          "y2": 435.6418102148462
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 354.14004829353695,
+          "y1": 228.78768440714458,
+          "y2": 402.1372687107818
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 22
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000024.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 373.0773978393124,
+          "x2": 562.4508932970674,
+          "y1": 295.7967674152733,
+          "y2": 434.1850910190173
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 282.7608076979216,
+          "y1": 204.02345807805355,
+          "y2": 394.8536727316374
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 23
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000025.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 387.64458979760127,
+          "x2": 566.8210508845541,
+          "y1": 297.2534866111022,
+          "y2": 431.2716526273595
+        }
+      },
+      {
+        "id": "00017247",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 195.35765594818852,
+          "y1": 205.48017727388242,
+          "y2": 415.24774147324183
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 24
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000026.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 397.8416241684035,
+          "x2": 572.6479276678697,
+          "y1": 297.2534866111022,
+          "y2": 426.9014950398729
+        }
+      },
+      {
+        "id": "00017249",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 52.599174756957844,
+          "x2": 142.9157648983487,
+          "y1": 348.23865846511313,
+          "y2": 378.8297615775197
+        }
+      },
+      {
+        "id": "00017250",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1081.4439080453237,
+          "x2": 1184.5012468470354,
+          "y1": 333.87412645361223,
+          "y2": 379.8666578196654
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 868.5155220913739,
+          "x2": 963.0557254549276,
+          "y1": 305.76757950769087,
+          "y2": 358.57381922427044
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 25
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000027.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 407.6960069552255,
+          "x2": 572.7546528176247,
+          "y1": 297.2534866111022,
+          "y2": 419.5774298888079
+        }
+      },
+      {
+        "id": "00017249",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 13.978148809893447,
+          "x2": 114.15488194746314,
+          "y1": 347.939417238104,
+          "y2": 381.71994352867983
+        }
+      },
+      {
+        "id": "00017250",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1111.262830386529,
+          "x2": 1227.7474038023079,
+          "y1": 331.63157695989497,
+          "y2": 385.2144807311532
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 870.722186282946,
+          "x2": 974.975879490068,
+          "y1": 300.7631650047136,
+          "y2": 360.17029744676074
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1054.7678122798764,
+          "x2": 1137.4718594050794,
+          "y1": 333.96126842821053,
+          "y2": 378.8078291932854
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 26
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000028.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 414.68508136017226,
+          "x2": 576.5986384081048,
+          "y1": 297.2534866111022,
+          "y2": 419.5774298888079
+        }
+      },
+      {
+        "id": "00017249",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 77.46224132149285,
+          "y1": 345.49325186085383,
+          "y2": 384.51558395513973
+        }
+      },
+      {
+        "id": "00017250",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1143.878510942947,
+          "x2": 1271.429118833225,
+          "y1": 334.42721738635487,
+          "y2": 389.7573897588498
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 877.1288378208138,
+          "x2": 988.9540282999615,
+          "y1": 305.8884968994891,
+          "y2": 362.96593787322064
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1078.647149830111,
+          "x2": 1170.6699628285762,
+          "y1": 333.2623716521971,
+          "y2": 381.6034696197453
+        }
+      },
+      {
+        "id": "00017253",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 69.30832118238834,
+          "x2": 145.60571676972341,
+          "y1": 338.50417745590715,
+          "y2": 378.1089324172719
+        }
+      },
+      {
+        "id": "00017254",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 142.11117956725005,
+          "x2": 193.94681473727158,
+          "y1": 343.74598325961716,
+          "y2": 374.03197234771966
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 192.1995461360349,
+          "x2": 253.93637004639763,
+          "y1": 338.50417745590715,
+          "y2": 373.44954948064077
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 255.1012157805554,
+          "x2": 301.6950451468669,
+          "y1": 343.74598325961716,
+          "y2": 367.6253208098518
+        }
+      },
+      {
+        "id": "00017257",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 350.0361431144151,
+          "x2": 421.674155765119,
+          "y1": 334.42721738635487,
+          "y2": 372.28470374648293
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1025.6466689259316,
+          "x2": 1096.7022587095566,
+          "y1": 335.00964025343376,
+          "y2": 375.7792409489563
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 995.9431027049081,
+          "x2": 1044.2842006724563,
+          "y1": 336.17448598759154,
+          "y2": 371.70228087940404
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 27
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000029.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 421.674155765119,
+          "x2": 580.675598477657,
+          "y1": 297.6180850773147,
+          "y2": 416.43234996140893
+        }
+      },
+      {
+        "id": "00017249",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 42.51686929675924,
+          "y1": 344.79433731070503,
+          "y2": 382.0694008037542
+        }
+      },
+      {
+        "id": "00017250",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1183.4832659043118,
+          "x2": 1280,
+          "y1": 336.6404171716005,
+          "y2": 394.8827038794899
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 888.7772951623917,
+          "x2": 1000.0200627744604,
+          "y1": 298.78293081147245,
+          "y2": 365.17913765846635
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1108.3507160511347,
+          "x2": 1202.7032205179155,
+          "y1": 331.3986113678905,
+          "y2": 387.31120660746427
+        }
+      },
+      {
+        "id": "00017253",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 32.61568055641804,
+          "x2": 112.40761334622647,
+          "y1": 336.0579943045216,
+          "y2": 378.57486360128087
+        }
+      },
+      {
+        "id": "00017254",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 109.495499010832,
+          "x2": 171.23232292119474,
+          "y1": 343.62949157654725,
+          "y2": 376.8275950000442
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 169.48505431995804,
+          "x2": 235.29883829987304,
+          "y1": 338.9701086399161,
+          "y2": 371.58578919633413
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 234.13399256571526,
+          "x2": 287.71689633697343,
+          "y1": 343.62949157654725,
+          "y2": 368.0912519938608
+        }
+      },
+      {
+        "id": "00017257",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 288.2993192040524,
+          "x2": 377.4100178671231,
+          "y1": 336.6404171716005,
+          "y2": 379.15728646835976
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1048.3611607420087,
+          "x2": 1113.0100989877658,
+          "y1": 334.31072570328496,
+          "y2": 380.32213220251754
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1012.2509429831172,
+          "x2": 1065.8338467543754,
+          "y1": 338.9701086399161,
+          "y2": 374.49790353172864
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 28
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000030.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 431.3423744699219,
+          "x2": 583.0052899459725,
+          "y1": 300.29723382070466,
+          "y2": 416.78180723648336
+        }
+      },
+      {
+        "id": "00017250",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1231.2419410047812,
+          "x2": 1280,
+          "y1": 341.0668345162272,
+          "y2": 394.8827038794899
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 893.4366780990229,
+          "x2": 1002.9321771098548,
+          "y1": 301.46207955486244,
+          "y2": 367.2758635347774
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1140.3839737404737,
+          "x2": 1244.6376669475958,
+          "y1": 332.91291437712266,
+          "y2": 388.8255096166965
+        }
+      },
+      {
+        "id": "00017253",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 87.41626265934683,
+          "y1": 334.2111137305836,
+          "y2": 383.5115867501141
+        }
+      },
+      {
+        "id": "00017254",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 79.61123920761943,
+          "x2": 145.17343620212955,
+          "y1": 342.016137182311,
+          "y2": 377.1387427150843
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 138.92941744074764,
+          "x2": 214.6381449225034,
+          "y1": 338.1136254564473,
+          "y2": 374.01673333439334
+        }
+      },
+      {
+        "id": "00017257",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 190.2193074992599,
+          "x2": 313.69295531998534,
+          "y1": 335.82502871251717,
+          "y2": 387.0782410154598
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1074.5701897605588,
+          "x2": 1157.8566597528406,
+          "y1": 333.49533724420155,
+          "y2": 381.83643521174974
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1035.5478576662729,
+          "x2": 1093.2077215070833,
+          "y1": 337.57229731375384,
+          "y2": 377.17705227511857
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 303.79176657964416,
+          "x2": 363.7813218887702,
+          "y1": 332.33049151004377,
+          "y2": 364.9461720664618
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 29
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000031.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 428.3588119643055,
+          "x2": 583.0052899459725,
+          "y1": 302.7252519735755,
+          "y2": 416.78180723648336
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 896.3008003640466,
+          "x2": 1031.399902545859,
+          "y1": 298.89942249454236,
+          "y2": 370.7050549822582
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1182.318420170154,
+          "x2": 1279.5077903230103,
+          "y1": 341.4162917913016,
+          "y2": 396.1640412967176
+        }
+      },
+      {
+        "id": "00017257",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 30.858947048247597,
+          "x2": 211.4552530059561,
+          "y1": 323.8807310093613,
+          "y2": 397.1414966337147
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1099.0319501778722,
+          "x2": 1197.4614147142054,
+          "y1": 337.3393317217493,
+          "y2": 387.4276982905342
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1051.273275077403,
+          "x2": 1114.1749447219236,
+          "y1": 340.2514460571438,
+          "y2": 381.6034696197453
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 272.789847482159,
+          "x2": 354.56930678376284,
+          "y1": 332.39942468661167,
+          "y2": 366.4741993956133
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 30
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000032.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 433.8693141104318,
+          "x2": 583.4129886190481,
+          "y1": 303.374994294379,
+          "y2": 415.151021431249
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 930.1053226898077,
+          "x2": 1047.1608174824198,
+          "y1": 299.4235995200863,
+          "y2": 371.1454220892962
+        }
+      },
+      {
+        "id": "00017257",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 63.22998302179912,
+          "y1": 347.7330733056624,
+          "y2": 405.66019031096516
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1122.328864861028,
+          "x2": 1224.2528665998345,
+          "y1": 338.27121186390264,
+          "y2": 390.68926990100306
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1074.5701897605588,
+          "x2": 1146.2082024112626,
+          "y1": 337.10636612974486,
+          "y2": 383.7001954960563
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 259.1599375985584,
+          "x2": 334.1244419583619,
+          "y1": 332.39942468661167,
+          "y2": 368.1779381310634
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 63.22998302179912,
+          "x2": 150.12065852975323,
+          "y1": 335.80690215751184,
+          "y2": 381.807848014664
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 153.52813600065338,
+          "x2": 223.38142415410667,
+          "y1": 344.3255958347622,
+          "y2": 374.9928930728637
+        }
+      },
+      {
+        "id": "00017252",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1216.0989464607298,
+          "x2": 1279.5830389723294,
+          "y1": 344.0954405346916,
+          "y2": 400.5489741046149
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 31
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000033.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 439.379816256558,
+          "x2": 583.8206872921236,
+          "y1": 304.02473661518246,
+          "y2": 413.5202356260145
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 963.909845015569,
+          "x2": 1062.9217324189808,
+          "y1": 299.94777654563023,
+          "y2": 371.58578919633413
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1189.307494575101,
+          "x2": 1276.6709246369348,
+          "y1": 337.2228400386794,
+          "y2": 394.300281012411
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1101.9440645132668,
+          "x2": 1166.5930027590239,
+          "y1": 334.89314857036385,
+          "y2": 383.23424653791204
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 248.6945642426876,
+          "x2": 319.1677311592337,
+          "y1": 334.89314857036385,
+          "y2": 370.42094346217635
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 25.62660615147132,
+          "x2": 117.06699628285763,
+          "y1": 341.8822229753106,
+          "y2": 386.1463608733065
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 118.23184201701541,
+          "x2": 194.52923760435047,
+          "y1": 348.8712973802573,
+          "y2": 378.57486360128087
+        }
+      },
+      {
+        "id": "00017261",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 25.62660615147132,
+          "y1": 352.94825744980955,
+          "y2": 386.91906422101425
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 412.3553898918567,
+          "x2": 460.6964878594049,
+          "y1": 322.6622683617071,
+          "y2": 358.1900632535196
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 32
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000034.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 442.5248961839569,
+          "x2": 584.6360757512069,
+          "y1": 303.791771023178,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 978.004521056803,
+          "x2": 1080.5109456626883,
+          "y1": 292.72573654867904,
+          "y2": 370.7704007372508
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1125.8234020635014,
+          "x2": 1217.2637921948876,
+          "y1": 334.6601829783594,
+          "y2": 385.913395281302
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 225.98007242661075,
+          "x2": 298.20050794439356,
+          "y1": 332.91291437712266,
+          "y2": 370.42094346217635
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 81.53920139104511,
+          "y1": 339.9019887820694,
+          "y2": 385.3309724142231
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 90.27554439722851,
+          "x2": 164.8256713833269,
+          "y1": 348.8712973802573,
+          "y2": 379.5067437434342
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 405.8322555579866,
+          "x2": 450.09639345598254,
+          "y1": 322.6622683617071,
+          "y2": 358.1900632535196
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 950.6306463040951,
+          "x2": 987.3232869300654,
+          "y1": 323.0117256367815,
+          "y2": 364.9461720664618
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1210.85714065702,
+          "x2": 1279.5830389723294,
+          "y1": 335.2426058454383,
+          "y2": 394.0673154204065
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 33
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000035.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 440.0787174761053,
+          "x2": 581.6074741762765,
+          "y1": 303.791771023178,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 988.3716054328826,
+          "x2": 1097.8671044437144,
+          "y1": 292.3762792736046,
+          "y2": 372.168212063413
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1164.8457341577873,
+          "x2": 1260.363084358726,
+          "y1": 334.31072570328496,
+          "y2": 390.2233209428587
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 189.28743180064043,
+          "x2": 277.81570759663225,
+          "y1": 335.47557143744274,
+          "y2": 373.91548066464975
+        }
+      },
+      {
+        "id": "00017255",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 30.28598908810247,
+          "y1": 343.62949157654725,
+          "y2": 386.91906422101425
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 37.857486360128085,
+          "x2": 128.1330307573566,
+          "y1": 350.0361431144151,
+          "y2": 385.5639380062276
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 387.66065943900486,
+          "x2": 438.9138717419475,
+          "y1": 322.6622683617071,
+          "y2": 358.7724861205985
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 958.668039211859,
+          "x2": 987.2067596987247,
+          "y1": 315.6731939567604,
+          "y2": 364.9461720664618
+        }
+      },
+      {
+        "id": "00017258",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1241.7255526122012,
+          "x2": 1279.5830389723294,
+          "y1": 343.04706870946836,
+          "y2": 397.21239534780545
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 927.2172043895987,
+          "x2": 977.3055709583836,
+          "y1": 295.28839360899906,
+          "y2": 361.10217758891406
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 34
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000036.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 442.5248961839569,
+          "x2": 582.8888071499703,
+          "y1": 303.791771023178,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1006.4267143123283,
+          "x2": 1123.4937105951858,
+          "y1": 284.9212736846489,
+          "y2": 372.168212063413
+        }
+      },
+      {
+        "id": "00017259",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1208.5274491887044,
+          "x2": 1279.5830389723294,
+          "y1": 334.31072570328496,
+          "y2": 395.5816184296387
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 174.7268601236681,
+          "x2": 255.68363864763433,
+          "y1": 336.7569088546704,
+          "y2": 378.1089324172719
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 95.51735020093855,
+          "y1": 351.8999033987217,
+          "y2": 390.3398126259287
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 376.1286893369631,
+          "x2": 429.7115931082213,
+          "y1": 322.1963371776981,
+          "y2": 361.80109213906286
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 972.6461880217524,
+          "x2": 1013.415788717275,
+          "y1": 315.2072627727514,
+          "y2": 366.46047507569403
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 943.5250446678077,
+          "x2": 990.1188740341192,
+          "y1": 292.4927709566745,
+          "y2": 361.21866927198397
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 929.5468958579143,
+          "x2": 980.8001081608569,
+          "y1": 307.63576550072577,
+          "y2": 360.6362464049051
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 35
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000037.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 445.902950590428,
+          "x2": 583.354747221047,
+          "y1": 305.8884968994891,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1025.0642460588529,
+          "x2": 1161.351196955314,
+          "y1": 284.9212736846489,
+          "y2": 376.9440866831141
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 145.02329390264453,
+          "x2": 232.38672396447856,
+          "y1": 336.7569088546704,
+          "y2": 379.27377815142967
+        }
+      },
+      {
+        "id": "00017256",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 52.41805803710043,
+          "y1": 352.48232626580057,
+          "y2": 390.3398126259287
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 366.3439833926241,
+          "x2": 421.674155765119,
+          "y1": 322.1963371776981,
+          "y2": 361.80109213906286
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 987.7891825658037,
+          "x2": 1037.2951262675097,
+          "y1": 314.0424170385936,
+          "y2": 368.2077436769307
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 952.84381054107,
+          "x2": 1004.0970228440126,
+          "y1": 291.91034808959563,
+          "y2": 332.6799487851182
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 938.2832388640977,
+          "x2": 997.1079484390659,
+          "y1": 307.0533426336469,
+          "y2": 364.71320647445737
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 36
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000038.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 445.902950590428,
+          "x2": 583.354747221047,
+          "y1": 307.0533426336469,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1047.1963150078507,
+          "x2": 1190.4723403092587,
+          "y1": 284.9212736846489,
+          "y2": 385.0980068222186
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 105.82345140805113,
+          "x2": 209.75151427050605,
+          "y1": 336.7569088546704,
+          "y2": 383.5115867501141
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 354.4625515719741,
+          "x2": 412.4964237890656,
+          "y1": 322.1963371776981,
+          "y2": 364.1307836073785
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1001.767331375697,
+          "x2": 1060.0096180835865,
+          "y1": 318.11937710814584,
+          "y2": 375.7792409489563
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 965.0746907497268,
+          "x2": 1018.0751716539061,
+          "y1": 293.0751938237534,
+          "y2": 343.74598325961716
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 946.4371590032022,
+          "x2": 1011.0860972489594,
+          "y1": 308.80061123488355,
+          "y2": 372.28470374648293
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 37
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000039.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 445.902950590428,
+          "x2": 582.5323606183061,
+          "y1": 306.42024970587175,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1070.4160586611188,
+          "x2": 1238.0096947202383,
+          "y1": 280.7354012676925,
+          "y2": 387.9696434970908
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 73.84393925976525,
+          "x2": 179.15181785630003,
+          "y1": 331.46296713510435,
+          "y2": 380.2641791676449
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 337.1136357511022,
+          "x2": 399.39939321368684,
+          "y1": 319.26266412696924,
+          "y2": 361.00054283901045
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1023.5412102614417,
+          "x2": 1083.900604091163,
+          "y1": 314.1257042373255,
+          "y2": 378.33782533277355
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 973.4557558069923,
+          "x2": 1036.3836344805313,
+          "y1": 289.72509822105525,
+          "y2": 344.94752236314054
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 960.6133315879027,
+          "x2": 1025.4675738943051,
+          "y1": 307.06237091682624,
+          "y2": 372.55873443418324
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 38
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000040.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 446.34333950131276,
+          "x2": 583.6797516555629,
+          "y1": 300.87516610108736,
+          "y2": 406.5880622987667
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1095.2578979595514,
+          "x2": 1279.3971027001191,
+          "y1": 269.2516501445166,
+          "y2": 391.2280688341466
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 31.623515956570742,
+          "x2": 151.82439726520332,
+          "y1": 332.4986820576581,
+          "y2": 380.3857205061795
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 322.55986275702156,
+          "x2": 386.71042369749364,
+          "y1": 315.3316305383768,
+          "y2": 363.17004124392423
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1038.335569237724,
+          "x2": 1120.556710724808,
+          "y1": 307.1998692924015,
+          "y2": 376.77160439685713
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 989.5450017618722,
+          "x2": 1050.9849756203525,
+          "y1": 283.7081145818061,
+          "y2": 312.62104345638505
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 971.4744212152602,
+          "x2": 1047.37085951103,
+          "y1": 299.97163707375677,
+          "y2": 374.96454634219594
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 95.60101899535066,
+          "y1": 456.7723523744676,
+          "y2": 639.0723970676262
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 39
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000041.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 448.7732387400467,
+          "x2": 583.1757425787924,
+          "y1": 300.87516610108736,
+          "y2": 407.3051488283941
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1130.9478981552995,
+          "x2": 1279.3971027001191,
+          "y1": 268.80500767749146,
+          "y2": 399.10987420408037
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 110.93466761440138,
+          "y1": 328.99194721571155,
+          "y2": 386.91906422101425
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 303.716877889693,
+          "x2": 375.0157671212228,
+          "y1": 315.51807303607995,
+          "y2": 360.59208346980563
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1067.0247560856521,
+          "x2": 1162.089941727692,
+          "y1": 304.86421602447206,
+          "y2": 381.8997974930214
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1006.3797238657303,
+          "x2": 1078.4981405596914,
+          "y1": 281.9174470763935,
+          "y2": 349.11869899576635
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 986.7110647673773,
+          "x2": 1077.67861309726,
+          "y1": 303.2251610996093,
+          "y2": 375.34357779357043
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 160.3430909424537,
+          "y1": 427.8087938718162,
+          "y2": 632.2574421258258
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 40
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000042.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 448.7732387400467,
+          "x2": 583.1757425787924,
+          "y1": 302.4390903595603,
+          "y2": 401.9678780575047
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1175.7239372576537,
+          "x2": 1279.3971027001191,
+          "y1": 268.4066661789728,
+          "y2": 403.2521204794137
+        }
+      },
+      {
+        "id": "00017260",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 76.85989290539976,
+          "y1": 328.99194721571155,
+          "y2": 386.91906422101425
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 286.41975736575966,
+          "x2": 351.1618293128627,
+          "y1": 310.25082112576064,
+          "y2": 361.36298318926305
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1093.53242225548,
+          "x2": 1208.472119016332,
+          "y1": 299.22848430478786,
+          "y2": 385.9148477836427
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1033.8151496367134,
+          "x2": 1104.4484828417062,
+          "y1": 276.11212071042655,
+          "y2": 348.0296963373284
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1002.9933315108984,
+          "x2": 1087.1112101459353,
+          "y1": 297.9442418828789,
+          "y2": 373.7145447755076
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 197.82534312235546,
+          "y1": 409.0676677818653,
+          "y2": 632.2574421258258
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 41
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000043.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 448.7732387400467,
+          "x2": 581.4560469858269,
+          "y1": 299.6565651120908,
+          "y2": 401.7844148543748
+        }
+      },
+      {
+        "id": "00017251",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1225.179800598754,
+          "x2": 1279.3971027001191,
+          "y1": 302.714285164255,
+          "y2": 400.56132683350916
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 274.46095374854207,
+          "x2": 347.8462350004827,
+          "y1": 308.8297252685834,
+          "y2": 358.3647901136433
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1128.4210155158103,
+          "x2": 1264.1837858319004,
+          "y1": 294.7642130286281,
+          "y2": 394.44588672918076
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1057.481910305601,
+          "x2": 1133.3133675992729,
+          "y1": 267.8562765695832,
+          "y2": 347.3569979258522
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1026.2931657735262,
+          "x2": 1121.694031401049,
+          "y1": 292.31803698689674,
+          "y2": 375.48802240576276
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 235.30759530225725,
+          "y1": 357.9555057183629,
+          "y2": 632.2574421258258
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 42
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000044.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 583.8206784050559,
+          "y1": 304.02473661518246,
+          "y2": 404.7838926198311
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 259.1599375985584,
+          "x2": 335.828180693812,
+          "y1": 311.5962338872081,
+          "y2": 362.84944619015073
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1170.0875399614974,
+          "x2": 1279.5830389723294,
+          "y1": 297.0356622102358,
+          "y2": 402.4542011515155
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1086.8010699692156,
+          "x2": 1168.3402713602607,
+          "y1": 266.7496731221333,
+          "y2": 293.5411250077624
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1048.9435836090875,
+          "x2": 1172.9996542968918,
+          "y1": 292.3762792736046,
+          "y2": 390.2233209428587
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 262.56741506945855,
+          "y1": 318.769514803011,
+          "y2": 623.7387484485754
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 43
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000045.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 582.8888160370379,
+          "y1": 307.28630822565134,
+          "y2": 407.46304136322107
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 229.59109464685326,
+          "x2": 314.04241037329285,
+          "y1": 313.1105368964403,
+          "y2": 370.1879778701719
+        }
+      },
+      {
+        "id": "00017263",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1214.934100726572,
+          "x2": 1279.5830389723294,
+          "y1": 307.28630822565134,
+          "y2": 405.1333498949055
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1119.4167505256337,
+          "x2": 1202.7032205179155,
+          "y1": 261.27490172641876,
+          "y2": 293.5411250077624
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1076.3174583617954,
+          "x2": 1216.6813693278089,
+          "y1": 289.23119934620564,
+          "y2": 396.979429755801
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 281.89266766618454,
+          "y1": 301.46207955486244,
+          "y2": 627.1462259194756
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 44
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000046.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 581.8404442118148,
+          "y1": 314.0424170385936,
+          "y2": 413.0543044420055
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 202.68315774345498,
+          "x2": 292.3762792736046,
+          "y1": 315.2072627727514,
+          "y2": 372.28470374648293
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1158.4390826199194,
+          "x2": 1234.7364782072545,
+          "y1": 259.2946586461099,
+          "y2": 291.32791633544906
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1103.1089102474245,
+          "x2": 1279.5830389723294,
+          "y1": 288.4158108871223,
+          "y2": 408.3949215053744
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 300.0496672493603,
+          "y1": 297.152145006238,
+          "y2": 629.133188128275
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 45
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000047.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 580.7920901607268,
+          "y1": 314.2753826305981,
+          "y2": 413.0543044420055
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 178.80382019322036,
+          "x2": 271.99147892584335,
+          "y1": 311.9456911622825,
+          "y2": 373.10009220556634
+        }
+      },
+      {
+        "id": "00017264",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1205.032911986231,
+          "x2": 1240.5607068780434,
+          "y1": 251.37371298607758,
+          "y2": 286.3190850108112
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1145.6257795441838,
+          "x2": 1279.5830389723294,
+          "y1": 281.65970207418,
+          "y2": 408.3949215053744
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 312.178656754287,
+          "y1": 297.6180850773147,
+          "y2": 629.133188128275
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 46
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000048.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 585.2292677447166,
+          "y1": 323.5006778364578,
+          "y2": 410.1870413153126
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 163.75056841335388,
+          "x2": 259.1599375985584,
+          "y1": 311.9456911622825,
+          "y2": 373.10009220556634
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1197.5560584301058,
+          "x2": 1279.5830389723294,
+          "y1": 284.33128396823446,
+          "y2": 409.54492010435814
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 334.1244419583619,
+          "y1": 303.43586618396034,
+          "y2": 628.8499646549257
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 47
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000049.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 585.2185075053535,
+          "y1": 309.61599969396696,
+          "y2": 405.1333498949055
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 139.19906523185557,
+          "x2": 233.55156969863634,
+          "y1": 300.87965668778355,
+          "y2": 348.0559089211739
+        }
+      },
+      {
+        "id": "00017265",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1258.0333928904104,
+          "x2": 1279.5830389723294,
+          "y1": 343.9789488516217,
+          "y2": 411.5400014327733
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 346.05061310651246,
+          "y1": 293.8905822828368,
+          "y2": 637.5200916335194
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 48
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000050.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 582.306393169959,
+          "y1": 309.61599969396696,
+          "y2": 405.1333498949055
+        }
+      },
+      {
+        "id": "00017262",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 139.19906523185557,
+          "x2": 201.23282059325564,
+          "y1": 299.0159052905446,
+          "y2": 331.63158584696265
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 354.1131031839673,
+          "y1": 293.8905822828368,
+          "y2": 625.2892114248626
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 49
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000051.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 582.306393169959,
+          "y1": 301.73212744851025,
+          "y2": 395.43775789826464
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 361.3842617255632,
+          "y1": 294.9171725067099,
+          "y2": 637.3686583321761
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 50
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000052.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.4458418439893,
+          "x2": 583.6881807576227,
+          "y1": 301.28327022024376,
+          "y2": 389.2538761210076
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 363.0880004610133,
+          "y1": 282.99100135855934,
+          "y2": 628.8499646549257
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 51
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000053.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 450.9117908021336,
+          "x2": 577.8799758253324,
+          "y1": 296.10378206808247,
+          "y2": 389.87386366778435
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.895388545596229,
+          "x2": 363.0880004610133,
+          "y1": 283.87290185942567,
+          "y2": 617.6012224697671
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 52
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000054.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 452.4260938113658,
+          "x2": 580.5591245687224,
+          "y1": 297.96754235238905,
+          "y2": 393.4848925533276
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 366.92640625970296,
+          "y1": 289.81362221328453,
+          "y2": 619.4649827540737
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 53
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000055.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 454.02464051442786,
+          "x2": 580.1051402853401,
+          "y1": 297.96754235238905,
+          "y2": 394.5578075134035
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 366.49547793191346,
+          "y1": 291.5096950358097,
+          "y2": 625.4424871840255
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 54
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000056.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 456.7360194729225,
+          "x2": 582.5393587619635,
+          "y1": 297.96754235238905,
+          "y2": 389.87386366778435
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 368.1992166673635,
+          "y1": 291.5096950358097,
+          "y2": 622.0350097131253
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 55
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000057.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 456.7360194729225,
+          "x2": 584.2617555293078,
+          "y1": 297.96754235238905,
+          "y2": 391.1431843404876
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 368.1992166673635,
+          "y1": 288.1022175649096,
+          "y2": 620.0905389244912
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 56
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000058.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 464.54048233695266,
+          "x2": 588.596553024757,
+          "y1": 299.36535367855134,
+          "y2": 391.38816667701656
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 366.926406259703,
+          "y1": 292.3762792736046,
+          "y2": 616.2033933694695
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 57
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000059.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 468.035019539426,
+          "x2": 588.0141301576781,
+          "y1": 306.12146249149356,
+          "y2": 396.3970068887221
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 362.84944619015073,
+          "y1": 293.8905822828368,
+          "y2": 611.893485482048
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 58
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000060.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 471.5561018830141,
+          "x2": 588.0141301576781,
+          "y1": 306.12146249149356,
+          "y2": 396.3970068887221
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 362.84944619015073,
+          "y1": 293.7760173359235,
+          "y2": 611.893485482048
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 59
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000061.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 474.8602967796643,
+          "x2": 596.1902404502392,
+          "y1": 307.7178446835136,
+          "y2": 400.807198016972
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 374.4493089143608,
+          "y1": 294.12052341008706,
+          "y2": 604.7670171183696
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 60
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000062.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 481.39827185257406,
+          "x2": 598.7138170939577,
+          "y1": 306.09918126200085,
+          "y2": 397.7940901863007
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 382.9610902132522,
+          "y1": 289.91772674594796,
+          "y2": 596.691135279451
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 61
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000063.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 481.33521053177947,
+          "x2": 600.8721008476169,
+          "y1": 307.40904234218925,
+          "y2": 401.0462730895953
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 388.4948935264717,
+          "y1": 294.45921255797356,
+          "y2": 598.282142110727
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 62
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000064.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 484.1098942256305,
+          "x2": 600.5944676414093,
+          "y1": 312.76107962136587,
+          "y2": 400.70693255027885
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 404.7838926198311,
+          "y1": 302.2774680139458,
+          "y2": 592.3240558192348
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 63
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000065.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 489.4889991106005,
+          "x2": 604.1076352659753,
+          "y1": 311.2233126405743,
+          "y2": 401.5697670218697
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 416.6724537883624,
+          "y1": 302.2774680139458,
+          "y2": 586.9822872607594
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 64
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000066.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 489.4889991106005,
+          "x2": 608.4862903806742,
+          "y1": 293.051897264553,
+          "y2": 381.11423476688174
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 431.0162204193487,
+          "y1": 282.0441050767619,
+          "y2": 557.2389097715392
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 65
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000067.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 500.30124282076963,
+          "x2": 612.1264332999173,
+          "y1": 307.86873109273023,
+          "y2": 395.8145840216432
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 449.048030517827,
+          "y1": 295.6378508840735,
+          "y2": 562.969964647421
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 66
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000068.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 505.46818544520266,
+          "x2": 619.4463056926503,
+          "y1": 317.29810488348147,
+          "y2": 401.5428024576819
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 468.7198020589183,
+          "y1": 309.04619526496845,
+          "y2": 567.1338208914519
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 67
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000069.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 511.2507856121987,
+          "x2": 623.6583989584252,
+          "y1": 312.5281140293614,
+          "y2": 392.9024696862487
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 487.487939745034,
+          "y1": 302.04450242194133,
+          "y2": 547.8269701033698
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 68
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000070.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 515.8748833808392,
+          "x2": 624.8478820152504,
+          "y1": 313.0929384808131,
+          "y2": 392.9024696862487
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 1.3129656785173107,
+          "x2": 506.5088563730064,
+          "y1": 304.1729116788389,
+          "y2": 539.8102977067236
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 69
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000071.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 523.248700228851,
+          "x2": 627.502393435973,
+          "y1": 322.3128110866327,
+          "y2": 402.1047438764411
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 47.8963344027484,
+          "x2": 525.4004956809895,
+          "y1": 315.855312028006,
+          "y2": 538.5518116760715
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 70
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000072.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 528.3740321236264,
+          "x2": 633.2101481978273,
+          "y1": 320.09961130138703,
+          "y2": 399.30912122411655
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 97.84704166925414,
+          "x2": 549.3412508949328,
+          "y1": 314.74131381460705,
+          "y2": 535.596089894713
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 71
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000073.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 526.5102718393199,
+          "x2": 631.9288107805996,
+          "y1": 317.0710052829226,
+          "y2": 395.11566947149436
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 143.3057035879529,
+          "x2": 569.9590212782324,
+          "y1": 308.54708239031055,
+          "y2": 522.0838722688286
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 72
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000074.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 541.1873351993621,
+          "x2": 636.1222625332218,
+          "y1": 308.68411955181364,
+          "y2": 386.1463608733065
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 204.43042634469168,
+          "x2": 594.4207816955459,
+          "y1": 306.93685095057697,
+          "y2": 509.6200086940319
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 72.22043551778282,
+          "x2": 337.80526290575824,
+          "y1": 267.3320959892122,
+          "y2": 367.5088291267819
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 73
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000075.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 539.5359048916968,
+          "x2": 636.7728383091796,
+          "y1": 308.06037312795445,
+          "y2": 382.06370298550775
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 255.5696391592248,
+          "x2": 619.5627615981207,
+          "y1": 307.1998692924015,
+          "y2": 501.6737361273672
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 35.970163254597836,
+          "x2": 337.80526290575824,
+          "y1": 259.1386590622582,
+          "y2": 361.36298318926305
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 193.61336299941271,
+          "x2": 306.33936545684855,
+          "y1": 301.1763424435309,
+          "y2": 363.13261860334296
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 74
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000076.jpg",
+    "labels": [
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 545.3807780649166,
+          "x2": 634.4914767279873,
+          "y1": 309.8489652859714,
+          "y2": 371.58578919633413
+        }
+      },
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 301.92801962593904,
+          "x2": 640.8981282658551,
+          "y1": 307.51927381765586,
+          "y2": 497.3891284853752
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 177.05655159198366,
+          "y1": 265.0024045208966,
+          "y2": 371.5854156019635
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 165.4080942504058,
+          "x2": 276.0684389953956,
+          "y1": 301.6950451468669,
+          "y2": 369.2560977280186
+        }
+      },
+      {
+        "id": "00017269",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 20.384800347761278,
+          "x2": 121.14395635240987,
+          "y1": 341.8822229753106,
+          "y2": 379.15728646835976
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 75
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000077.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 351.78341171565177,
+          "x2": 665.359879796101,
+          "y1": 316.37210850690917,
+          "y2": 491.68139149765614
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 150.26509970635456,
+          "y1": 261.6243590014932,
+          "y2": 371.5854156019635
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 135.70452802938223,
+          "x2": 258.5957529830288,
+          "y1": 300.64669109577903,
+          "y2": 373.44954948064077
+        }
+      },
+      {
+        "id": "00017269",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 81.97110911175001,
+          "y1": 341.8822229753106,
+          "y2": 397.1414966337147
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 76
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000078.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 392.05155896366466,
+          "x2": 668.8373624814714,
+          "y1": 317.4368517244475,
+          "y2": 487.2551324112324
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 130.9213560602029,
+          "y1": 269.05287231089426,
+          "y2": 377.2052968823662
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 82.53737664664965,
+          "x2": 217.25355462164103,
+          "y1": 304.1549750226878,
+          "y2": 385.7436461906403
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 77
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000079.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 433.2061391977623,
+          "x2": 690.0546235795545,
+          "y1": 309.9654569690413,
+          "y2": 471.87901401697377
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 96.09977306801746,
+          "y1": 268.61343340643987,
+          "y2": 363.54836074029953
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 39.02233209428587,
+          "x2": 188.70500893356154,
+          "y1": 299.48184536162125,
+          "y2": 381.6034696197453
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 78
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000080.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 465.00642240802927,
+          "x2": 703.8357475510294,
+          "y1": 317.53695424106695,
+          "y2": 469.5493225486582
+        }
+      },
+      {
+        "id": "00017267",
+        "category": "bus",
+        "attributes": {
+          "occluded": true,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 87.36343006183405,
+          "y1": 267.6815532642866,
+          "y2": 380.67158947759197
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 156.0893283771435,
+          "y1": 300.29723382070466,
+          "y2": 384.1661266800653
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 79
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000081.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 490.8684056197693,
+          "x2": 714.0581799637298,
+          "y1": 317.065776067561,
+          "y2": 472.10600099351825
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 116.04588382075161,
+          "y1": 301.2291139628579,
+          "y2": 384.1661266800653
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 80
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000082.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 518.2398600171455,
+          "x2": 721.5054406276793,
+          "y1": 321.2644570355448,
+          "y2": 465.70532807111044
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 69.89074404946724,
+          "y1": 297.38511948531016,
+          "y2": 386.4958181483809
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 532.8004316941177,
+          "x2": 607.9329815472951,
+          "y1": 314.2753826305981,
+          "y2": 364.36374919938294
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 81
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000083.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 539.6730499642653,
+          "x2": 732.455018967379,
+          "y1": 313.45998528444704,
+          "y2": 454.98875087168585
+        }
+      },
+      {
+        "id": "00017268",
+        "category": "truck",
+        "attributes": {
+          "occluded": false,
+          "truncated": true,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 0,
+          "x2": 21.549646081919064,
+          "y1": 287.25095626589683,
+          "y2": 357.72412318244295
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 532.8004316941177,
+          "x2": 611.3110626149692,
+          "y1": 309.96544808197365,
+          "y2": 368.7901576569419
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 82
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000084.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 562.4403878295607,
+          "x2": 748.5271147641691,
+          "y1": 316.34744401914776,
+          "y2": 452.5413528625931
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 536.819751512477,
+          "x2": 619.7497059072481,
+          "y1": 309.96544808197365,
+          "y2": 386.467080255377
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 83
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000085.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 587.4384331330631,
+          "x2": 758.205419298545,
+          "y1": 324.07779731337575,
+          "y2": 447.40950954400165
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 544.7466865916925,
+          "x2": 629.1814741957364,
+          "y1": 314.5083482226026,
+          "y2": 392.38459177956855
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 84
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000086.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 604.6714277109616,
+          "x2": 763.6728704234995,
+          "y1": 328.7194626245005,
+          "y2": 449.8634189769104
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 547.5939867372299,
+          "x2": 632.0453024636695,
+          "y1": 317.0710052829226,
+          "y2": 393.3684008702577
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 85
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000087.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 626.8034966599595,
+          "x2": 773.5740591638407,
+          "y1": 326.85572011432924,
+          "y2": 443.340293530108
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 554.0006382750978,
+          "x2": 646.6058741406418,
+          "y1": 315.2072627727514,
+          "y2": 391.50465836008647
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 86
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000088.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 634.0304797772571,
+          "x2": 777.8656310310607,
+          "y1": 324.65648817778214,
+          "y2": 436.38557888386174
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 554.0006382750978,
+          "x2": 643.6622979415744,
+          "y1": 315.2072627727514,
+          "y2": 391.50465836008647
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 87
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000089.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 646.0662823592007,
+          "x2": 785.4679037187778,
+          "y1": 319.41902113120403,
+          "y2": 424.4004890686634
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 560.0158988039062,
+          "x2": 654.6713207147302,
+          "y1": 310.8139827756746,
+          "y2": 383.95680879767497
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 88
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000090.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 662.0642201661336,
+          "x2": 790.2011131151277,
+          "y1": 315.7406312444823,
+          "y2": 416.267917425461
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 562.9528112553096,
+          "x2": 655.6927724504378,
+          "y1": 303.705674448168,
+          "y2": 380.1630470365179
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 89
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000091.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 669.9027888237977,
+          "x2": 793.958859511602,
+          "y1": 325.923839972176,
+          "y2": 421.44119017311453
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 569.7260556862279,
+          "x2": 658.8367543492986,
+          "y1": 311.9456911622825,
+          "y2": 388.8255096166965
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 90
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000092.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 680.9688232982966,
+          "x2": 798.0358195811542,
+          "y1": 326.3897711561849,
+          "y2": 419.5774298888079
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 571.4733242874646,
+          "x2": 658.8367543492986,
+          "y1": 313.5764680804493,
+          "y2": 388.70901793362657
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 91
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000093.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 680.9688232982966,
+          "x2": 793.900843933246,
+          "y1": 326.3897711561849,
+          "y2": 418.0327659376702
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 565.8820789828155,
+          "x2": 655.5752005129651,
+          "y1": 313.5764680804493,
+          "y2": 388.70901793362657
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 92
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000094.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 680.9688232982966,
+          "x2": 786.5038539226463,
+          "y1": 328.7194626245005,
+          "y2": 412.0059326167823
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 562.8534729643511,
+          "x2": 652.5465944945007,
+          "y1": 313.5764680804493,
+          "y2": 386.96174933238984
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 93
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000095.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 681.0663511615408,
+          "x2": 786.5038539226463,
+          "y1": 328.7194626245005,
+          "y2": 409.60763312855784
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 562.8534729643511,
+          "x2": 652.5465944945007,
+          "y1": 312.8253423271381,
+          "y2": 386.96174933238984
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 94
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000096.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 684.6103673681819,
+          "x2": 783.7217762790059,
+          "y1": 323.8987874023941,
+          "y2": 400.7606963536454
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 562.8534729643511,
+          "x2": 652.247458336076,
+          "y1": 307.7173328863412,
+          "y2": 380.53387820857927
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 95
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000097.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 682.0171773493845,
+          "x2": 776.3696818161652,
+          "y1": 316.37210850690917,
+          "y2": 392.08708122716536
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 558.5435295286591,
+          "x2": 647.6542281917298,
+          "y1": 302.9763825640946,
+          "y2": 373.44954948064077
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 96
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000098.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 678.8832305567391,
+          "x2": 766.8294672424985,
+          "y1": 317.3264875851849,
+          "y2": 388.3006435070258
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 556.4785347131271,
+          "x2": 638.2531056665525,
+          "y1": 303.4402396874334,
+          "y2": 370.5571045265656
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 97
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000099.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 678.8832305567391,
+          "x2": 758.7967813194078,
+          "y1": 318.3533228609706,
+          "y2": 382.3521862317095
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 555.9696143290662,
+          "x2": 640.6450335580438,
+          "y1": 303.4402396874334,
+          "y2": 369.5524135575617
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 98
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000100.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 679.0443553364299,
+          "x2": 757.8121871773393,
+          "y1": 317.6969267662583,
+          "y2": 380.7111922389858
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 555.9696180850091,
+          "x2": 640.6450373139867,
+          "y1": 303.4402396874334,
+          "y2": 366.92682166682664
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 99
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000101.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 676.6460099688309,
+          "x2": 757.6491227057146,
+          "y1": 313.7520649075921,
+          "y2": 372.07430607814837
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 564.0516832645626,
+          "x2": 641.8146714919709,
+          "y1": 298.3614734875842,
+          "y2": 360.7338702949846
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 100
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000102.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 676.6460099688309,
+          "x2": 748.6814039444085,
+          "y1": 315.84531664817297,
+          "y2": 372.07430607814837
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 566.4973030878836,
+          "x2": 637.9420485218149,
+          "y1": 298.87718960761424,
+          "y2": 364.0705198160766
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 101
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000103.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 676.6460099688309,
+          "x2": 742.9775790976977,
+          "y1": 314.28364904522834,
+          "y2": 365.97503869082516
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 569.2945098884925,
+          "x2": 637.9420485218149,
+          "y1": 298.87718960761424,
+          "y2": 364.0705198160766
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 102
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000104.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 675.9443421127705,
+          "x2": 738.3957215471027,
+          "y1": 312.50181201597087,
+          "y2": 359.5240271194679
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 570.8790802408943,
+          "x2": 636.2693481191949,
+          "y1": 298.87718960761424,
+          "y2": 357.3198607864915
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 103
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000105.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 677.0240162548737,
+          "x2": 736.5613041164831,
+          "y1": 316.1146517817214,
+          "y2": 359.49181865232265
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 579.3844070782671,
+          "x2": 643.8532415891199,
+          "y1": 304.2071942093995,
+          "y2": 357.3198607864915
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 104
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000106.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 675.9443421127705,
+          "x2": 736.5613041164831,
+          "y1": 318.8693961705896,
+          "y2": 358.5443901641653
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 582.6346340167686,
+          "x2": 643.8532415891199,
+          "y1": 304.9096760617389,
+          "y2": 355.6055017201967
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 105
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000107.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 677.9036160233759,
+          "x2": 732.2730522367945,
+          "y1": 319.1143110149001,
+          "y2": 354.3809723425229
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 589.5084605311777,
+          "x2": 646.3105652507138,
+          "y1": 305.1545909060494,
+          "y2": 355.6055017201967
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 106
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000108.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 677.9036160233759,
+          "x2": 727.1299974598494,
+          "y1": 316.91014468192367,
+          "y2": 354.3809723425229
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 594.1452953702717,
+          "x2": 649.2494536946824,
+          "y1": 305.1545909060494,
+          "y2": 352.1768060095465
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 107
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000109.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 680.8425044673445,
+          "x2": 727.8647195708415,
+          "y1": 317.88977042625663,
+          "y2": 353.1564317538795
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 598.5536280362246,
+          "x2": 649.9841758056746,
+          "y1": 305.1545909060494,
+          "y2": 350.21754330991087
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 108
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000110.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 682.0294034833933,
+          "x2": 727.1299974598494,
+          "y1": 317.88977042625663,
+          "y2": 353.1564317538795
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 605.1369962101245,
+          "x2": 652.9603226849624,
+          "y1": 305.1545909060494,
+          "y2": 350.21754330991087
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 109
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000111.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 682.0294034833933,
+          "x2": 723.9461941715704,
+          "y1": 317.88977042625663,
+          "y2": 350.7073617875622
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 610.0642669677883,
+          "x2": 657.0864820712854,
+          "y1": 307.35875723902586,
+          "y2": 349.23791756557796
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 110
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000112.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 685.2508371332973,
+          "x2": 721.2522205719123,
+          "y1": 323.27772883654245,
+          "y2": 350.7073617875622
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 616.186958700036,
+          "x2": 661.7397295815488,
+          "y1": 312.25689717166034,
+          "y2": 349.7277248322596
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 111
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000113.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 685.9855592442894,
+          "x2": 721.9869426829044,
+          "y1": 324.9920879028373,
+          "y2": 350.7073617875622
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 622.7994576989653,
+          "x2": 664.6786180255174,
+          "y1": 315.4407004599394,
+          "y2": 352.1768060095465
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 112
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000114.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 687.6998958886448,
+          "x2": 721.9869426829044,
+          "y1": 324.25736579184513,
+          "y2": 350.7073617875622
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 627.2253367067252,
+          "x2": 667.1276767808649,
+          "y1": 315.4407004599394,
+          "y2": 352.1768060095465
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 113
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000115.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 687.6998958886448,
+          "x2": 721.9869426829044,
+          "y1": 324.25736579184513,
+          "y2": 348.5834033844521
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 632.9043290909137,
+          "x2": 667.1276767808649,
+          "y1": 315.4407004599394,
+          "y2": 352.1768060095465
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 114
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000116.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 688.924447688258,
+          "x2": 719.782776349928,
+          "y1": 326.216617280511,
+          "y2": 349.7277248322596
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 636.759177807816,
+          "x2": 674.2300054684152,
+          "y1": 317.3999519486053,
+          "y2": 349.7277248322596
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 115
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000117.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 691.1286140212345,
+          "x2": 719.782776349928,
+          "y1": 326.216617280511,
+          "y2": 348.2582806102753
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 641.1675104737689,
+          "x2": 677.9036160233759,
+          "y1": 317.3999519486053,
+          "y2": 349.7277248322596
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 116
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000118.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 691.1286140212345,
+          "x2": 719.782776349928,
+          "y1": 326.216617280511,
+          "y2": 345.80921064395807
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 645.3309282954111,
+          "x2": 680.597589623034,
+          "y1": 317.3999519486053,
+          "y2": 347.2786548659423
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 117
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000119.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 691.1286140212345,
+          "x2": 717.333695172641,
+          "y1": 326.216617280511,
+          "y2": 345.80921064395807
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 649.739260961364,
+          "x2": 682.8017559560104,
+          "y1": 318.8693961705896,
+          "y2": 348.2582806102753
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 118
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000120.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 693.2837996275427,
+          "x2": 717.333695172641,
+          "y1": 326.216617280511,
+          "y2": 345.09898338068786
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 652.3965141508301,
+          "x2": 686.340675678667,
+          "y1": 320.4123204513519,
+          "y2": 346.6418998137714
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 119
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000121.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 693.2837996275427,
+          "x2": 717.0887803283306,
+          "y1": 327.6860615024953,
+          "y2": 345.3193921663067
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 659.7804556709434,
+          "x2": 686.9651737776527,
+          "y1": 321.80828461455815,
+          "y2": 346.788836388291
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 120
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000122.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 696.6267695371995,
+          "x2": 720.1176722308958,
+          "y1": 332.9227933485918,
+          "y2": 353.17357153281273
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 662.6054621877083,
+          "x2": 692.5766139003553,
+          "y1": 328.87263771174764,
+          "y2": 355.60366491491925
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 121
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000123.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 696.6267695371995,
+          "x2": 720.1176722308958,
+          "y1": 333.56383839043247,
+          "y2": 353.17357153281273
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 666.6378695141833,
+          "x2": 692.5766139003553,
+          "y1": 332.09439416844816,
+          "y2": 355.60366491491925
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 122
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000124.jpg",
+    "labels": [
+      {
+        "id": "00017266",
+        "category": "car",
+        "attributes": {
+          "occluded": false,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 694.067502465203,
+          "x2": 719.0480542389358,
+          "y1": 332.09439416844816,
+          "y2": 350.4624469432517
+        }
+      },
+      {
+        "id": "00017243",
+        "category": "car",
+        "attributes": {
+          "occluded": true,
+          "truncated": false,
+          "crowd": false
+        },
+        "box2d": {
+          "x1": 670.5563949134545,
+          "x2": 692.5980582432187,
+          "y1": 331.359672057456,
+          "y2": 349.7277248322596
+        }
+      }
+    ],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 123
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000125.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 124
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000126.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 125
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000127.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 126
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000128.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 127
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000129.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 128
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000130.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 129
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000131.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 130
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000132.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 131
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000133.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 132
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000134.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 133
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000135.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 134
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000136.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 135
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000137.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 136
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000138.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 137
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000139.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 138
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000140.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 139
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000141.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 140
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000142.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 141
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000143.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 142
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000144.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 143
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000145.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 144
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000146.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 145
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000147.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 146
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000148.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 147
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000149.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 148
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000150.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 149
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000151.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 150
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000152.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 151
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000153.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 152
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000154.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 153
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000155.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 154
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000156.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 155
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000157.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 156
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000158.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 157
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000159.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 158
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000160.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 159
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000161.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 160
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000162.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 161
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000163.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 162
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000164.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 163
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000165.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 164
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000166.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 165
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000167.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 166
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000168.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 167
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000169.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 168
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000170.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 169
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000171.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 170
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000172.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 171
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000173.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 172
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000174.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 173
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000175.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 174
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000176.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 175
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000177.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 176
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000178.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 177
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000179.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 178
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000180.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 179
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000181.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 180
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000182.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 181
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000183.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 182
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000184.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 183
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000185.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 184
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000186.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 185
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000187.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 186
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000188.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 187
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000189.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 188
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000190.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 189
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000191.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 190
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000192.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 191
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000193.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 192
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000194.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 193
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000195.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 194
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000196.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 195
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000197.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 196
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000198.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 197
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000199.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 198
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000200.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 199
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000201.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 200
+  },
+  {
+    "name": "00423717-0ef3c8dc-0000202.jpg",
+    "labels": [],
+    "videoName": "00423717-0ef3c8dc",
+    "frameIndex": 201
+  }
+]
